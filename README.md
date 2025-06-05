@@ -1,6 +1,6 @@
 # 🚆 Railway Reservation Management System (Python CLI)
 
-This is a simple Python-based **Railway Reservation Management System** that allows users to search for trains between two stations on a specific day and choose their preferred coach class. The script simulates a train database and interacts with the user via the command line.
+This is a simple Python-based **Railway Reservation Management System** that allows users to search for trains between two stations on a specific day and choose their preferred coach class.
 
 ---
 
